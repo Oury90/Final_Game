@@ -93,4 +93,4 @@ print(f"Your final score was: {quiz.score}/{quiz.question_number}")
 
 
 ```
-![Alt text](/assets/images/example.jpg)
+![Alt text](asset/images/Screen Recording 2024-09-14 at 3.43.28 PM.gif)
